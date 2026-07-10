@@ -1,20 +1,20 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Bug/Crash report
+about: Report a bug, crash, compatibility or performance issue.
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-## Before submitting
+Thank you for helping improve TransitCore.
 
-Please make sure that:
+Before submitting:
 
 - [ ] I have searched for existing issues.
-- [ ] I am using the latest available version of TransitCore.
+- [ ] I am using the latest available version.
 - [ ] I have read the Issue Guidelines.
-- [ ] I can reliably reproduce the issue.
+- [ ] I can reproduce the issue.
 
 ---
 
@@ -33,6 +33,17 @@ Please make sure that:
 **Operating System:**
 
 **Other Installed Mods:**
+
+---
+
+# Issue Type
+
+- [ ] Unexpected behavior
+- [ ] Visual issue
+- [ ] Performance issue
+- [ ] Compatibility issue
+- [ ] Game crash
+- [ ] Dedicated server crash
 
 ---
 
@@ -64,19 +75,23 @@ Describe what actually happened.
 
 # Logs
 
-Please upload your logs to one of the following services:
+Please upload your logs to:
 
 - https://mclo.gs
 - https://pastebin.com
 
-Paste the link below.
+**Latest Log:**
 
-**Logs:**
+---
 
-> Reports without logs may be closed without investigation.
+# Crash Report (if applicable)
+
+If the game crashed, upload the crash report:
+
+**Crash Report:**
 
 ---
 
 # Additional Information
 
-Include screenshots, videos or any additional information that could help reproduce the issue.
+Screenshots, videos or any additional information that may help reproduce the issue.
