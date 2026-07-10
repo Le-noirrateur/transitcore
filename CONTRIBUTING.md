@@ -59,7 +59,7 @@ Do **not** upload screenshots of logs or paste raw logs directly into the issue.
 
 ---
 
-# Feature Requests
+## Feature Requests
 
 Feature requests are welcome.
 
@@ -76,7 +76,7 @@ The development team reserves the right to reject suggestions that do not align 
 
 ---
 
-# Proper Issue Usage
+## Proper Issue Usage
 
 The issue tracker is intended for development purposes only.
 
@@ -101,11 +101,11 @@ Please keep discussions respectful, constructive, and professional.
 
 ---
 
-# Labels
+## Labels
 
 Issues are categorized exclusively by the development team.
 
-## General
+### General
 
 | Label | Description |
 |-------|-------------|
@@ -121,7 +121,7 @@ Issues are categorized exclusively by the development team.
 
 ---
 
-## Priority
+### Priority
 
 | Label | Description |
 |-------|-------------|
@@ -132,7 +132,7 @@ Issues are categorized exclusively by the development team.
 
 ---
 
-## Type
+### Type
 
 | Label | Description |
 |-------|-------------|
@@ -145,7 +145,7 @@ Issues are categorized exclusively by the development team.
 
 ---
 
-## Component
+### Component
 
 | Label | Description |
 |-------|-------------|
@@ -162,7 +162,7 @@ Issues are categorized exclusively by the development team.
 
 ---
 
-## Minecraft Version
+### Minecraft Version
 
 | Label | Description |
 |-------|-------------|
@@ -171,7 +171,7 @@ Issues are categorized exclusively by the development team.
 
 ---
 
-## Loader
+### Loader
 
 | Label | Description |
 |-------|-------------|
@@ -181,7 +181,7 @@ Issues are categorized exclusively by the development team.
 
 ---
 
-## Status
+### Status
 
 Labels are assigned **only by the TransitCore development team**.
 
@@ -189,7 +189,7 @@ Users should **never request specific labels** or ask for labels to be modified.
 
 ---
 
-# Recommended Report Template
+## Recommended Report Template
 
 ```md
 **TransitCore version**:
